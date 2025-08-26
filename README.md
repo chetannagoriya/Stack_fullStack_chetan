@@ -68,27 +68,10 @@ We envision a world where corporate fraud and misconduct cannot hide in the shad
 
 ## Contract Address Details
 
-*Contract deployment information will be added upon mainnet deployment*
+Contract Information:ST2GQ9PBEV22NPG608SM6A71EXEEWG34VMEW8DVET.WhistleblowerPlatform
+<img width="1366" height="589" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/7a933fe9-6811-493e-b89c-33c86e9f843e" />
 
-### Testnet Deployment
-- **Network**: Stacks Testnet
-- **Contract Address**: [To be updated after deployment]
-- **Deployer**: [To be updated after deployment]
-- **Block Height**: [To be updated after deployment]
-- **Transaction ID**: [To be updated after deployment]
 
-### Mainnet Deployment
-- **Network**: Stacks Mainnet
-- **Contract Address**: [To be updated after deployment]
-- **Deployer**: [To be updated after deployment]
-- **Block Height**: [To be updated after deployment]
-- **Transaction ID**: [To be updated after deployment]
 
-### Contract Verification
-- **Source Code**: Available in this repository
-- **Verification Status**: [To be updated after deployment]
-- **Audit Report**: [To be added after security audit]
 
----
 
-**Note**: This project is designed to provide technical infrastructure for whistleblower protection. Users should always comply with local laws and regulations. The platform does not provide legal advice and users are encouraged to consult with legal professionals when dealing with sensitive information.
